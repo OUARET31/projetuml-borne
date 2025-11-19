@@ -12,7 +12,8 @@ int main()
     while (1)
     {
         lecteurcarte_lire_carte();
+        
     }
 
 }
-test
+
